@@ -1,8 +1,9 @@
-- 👋 Hi, we are @ethapslab
-- 👀 We're interested in semiconductor devices and modules for power electronics
-- 🌱 We’re currently learning to use python for data acquisition and analysis
-- 💞️ We’re looking to collaborate on silicon carbide devices and stuff
-- 📫 You reach us through our websiste: aps.ee.ethz.ch
+<img src="aps_logo.png" width="640"/>
+
+Hi, we are @ethapslab
+- We're interested in semiconductor devices and modules for power electronics
+- We’re partially switching to use python for data acquisition and analysis
+- You reach us through our websiste: aps.ee.ethz.ch
 
 
 <!---
